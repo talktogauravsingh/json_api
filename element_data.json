@@ -1,4 +1,6 @@
-{
-  "atomic_no":1,
-  "atomic_name": "hydrogen"
+"periodic_table" : {
+    {
+    "atomic_no":1,
+    "atomic_name": "hydrogen"
+    }
 }
